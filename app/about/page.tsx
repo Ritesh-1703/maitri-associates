@@ -89,7 +89,7 @@ export default function AboutPage() {
             <AnimatedWrapper>
               <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="https://images.unsplash.com/photo-1581094794329-8114a89e3f3f?w=800&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&auto=format&fit=crop&q=80"
                   alt="Engineering team"
                   width={800}
                   height={600}
